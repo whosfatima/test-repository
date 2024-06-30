@@ -9,5 +9,9 @@ body {
     list-style-type: none;
     justify-content: center;
     align-items: center;
-    
+}
+.para {
+color:lightgray;
+    width:500px;
+    hight:600px;
 }
