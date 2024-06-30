@@ -1,17 +1,17 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 body {
-    display: flex;
-    background-color: burlywood;
-    list-style-type: none;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  background-color: burlywood;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
 }
 .para {
-color:lightgray;
-    width:500px;
-    hight:600px;
+  color: lightgray;
+  width: 500px;
+  height: 600px;
 }
